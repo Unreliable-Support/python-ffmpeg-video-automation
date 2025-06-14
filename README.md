@@ -8,12 +8,11 @@ It was developed as a portfolio piece to demonstrate the core skills required fo
 
 ### Live Demo
 
-A one-minute video demonstrating the script in action, from running the command to showing the final, generated MP4 files.
+A one-minute video demonstrating the script in action, from running the command in the terminal to showing the final, generated MP4 files.
 
-**[Click here to watch the full demo video (demo.mkv)]**
+[![Automated Video Generator Demo](https://img.youtube.com/vi/ryzhvRr-Pi0/0.jpg)](https://youtu.be/ryzhvRr-Pi0)
 
-[![Watch the Demo](demo_thumbnail.jpg)](demo.mkv)
-
+**[Click here to watch the full demo on YouTube](https://youtu.be/ryzhvRr-Pi0)**
 ---
 
 ### The Problem
